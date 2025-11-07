@@ -12,7 +12,7 @@ This project compares RNN, LSTM, and BERT for sentiment classification on a twee
 
 BERT is the clear winner thanks to Transformers and pretraining!
 
-![Accuracy Comparison](plots/accuracy_comparison.png)
+![Accuracy Comparison](https://github.com/silyones/bert-analysis/blob/master/images/accuracy.png)
 <!-- Replace with your plot screenshot, e.g., bar chart showing BERT's lead -->
 
 ## Dataset
