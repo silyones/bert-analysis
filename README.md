@@ -4,7 +4,7 @@
 This project compares RNN, LSTM, and BERT for sentiment classification on a tweet dataset (10,000 samples, 3 classes: Negative, Neutral, Positive).
 
 ## WorkFlow
-![work flow process] ()
+![work flow process](https://github.com/silyones/bert-analysis/blob/master/images/wf.png)
 ### Results
 - **RNN**: 68.15% accuracy
 - **LSTM**: 74.00% accuracy
